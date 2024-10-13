@@ -1,0 +1,10 @@
+pandas
+phik
+numpy
+seaborn
+sklearn.linear_model
+sklearn.metrics
+phik.report
+sklearn.preprocessing
+sklearn.model_selection
+sklearn.pipeline
